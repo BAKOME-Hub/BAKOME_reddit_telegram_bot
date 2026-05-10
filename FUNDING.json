@@ -1,0 +1,30 @@
+{
+  "drips": {
+    "ethereum": {
+      "ownedBy": "0x2fD73626714d9e37EA464109F8eCeA2CA5401062"
+    }
+  },
+  "funding": {
+    "platforms": [
+      {
+        "name": "GitHub Sponsors",
+        "url": "https://github.com/sponsors/BAKOME-Hub"
+      },
+      {
+        "name": "Open Collective",
+        "url": "https://opencollective.com/bakome-open-source-hub"
+      },
+      {
+        "name": "Drips",
+        "url": "https://drips.network/BAKOME-Hub/BAKOME_reddit_telegram_bot"
+      }
+    ],
+    "crypto_wallets": {
+      "ethereum": "0x2fD73626714d9e37EA464109F8eCeA2CA5401062",
+      "bitcoin": "bc1qhtjp3qpqru4vuqd355dfcn46mqjrlpdfmngk6u0",
+      "solana": "3CfhghA7hSNPBbd1RME5rRDm5UUeesTq9NKTcyzZdkz4",
+      "tron_trc20": "THkLdiKsmscJFwBPA4tpWeAn1xVw7DTKxq"
+    },
+    "message": "Your donation fuels open source innovation. Every contribution helps maintain and develop cutting-edge security tools, trading bots, and AI infrastructure for developers worldwide."
+  }
+}
